@@ -10,7 +10,7 @@
         "director": ["Lars Von Trier"],
         "cast": ["Björk","David Morse", "Catherine Deneuve", "Vincent Paterson" ],
         "genres": ["Crime", "Musical", "Drama"],
-        "ratinhg": 12,
+        "rating": 12,
         "images":{
             "cover": "",
             "highlight": "https://m.media-amazon.com/images/M/MV5BMjAwMzMwOTg2OV5BMl5BanBnXkFtZTcwMDA5MjY0NA@@._V1_.jpg"
