@@ -1,5 +1,6 @@
 {
-    "titles":{
+    "titles":[
+        {
         "id": 1,
         "title": "Dancer In The Dark",
         "summary": "Dancer in the Dark is a 2000 musical drama film written and directed by Lars von Trier.",
@@ -14,4 +15,5 @@
             "highlight": "https://m.media-amazon.com/images/M/MV5BMjAwMzMwOTg2OV5BMl5BanBnXkFtZTcwMDA5MjY0NA@@._V1_.jpg"
         }
     }
+    ]
 }
