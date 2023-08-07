@@ -7,7 +7,7 @@
         "summary": "Dancer in the Dark is a 2000 musical drama film written and directed by Lars von Trier.",
         "summary_short": "Dancer in the Dark is a 2000 musical drama film written and directed by Lars von Trier.",
         "year": "2000",
-        "director": "Lars Von Trier",
+        "director": ["Lars Von Trier"],
         "cast": ["Björk","David Morse", "Catherine Deneuve", "Vincent Paterson" ],
         "genres": ["Crime", "Musical", "Drama"],
         "ratinhg": 12,
@@ -16,5 +16,6 @@
             "highlight": "https://m.media-amazon.com/images/M/MV5BMjAwMzMwOTg2OV5BMl5BanBnXkFtZTcwMDA5MjY0NA@@._V1_.jpg"
         }
     }
-    ]
+    ],
+    "highlights":[1]
 }
